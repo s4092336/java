@@ -30,8 +30,7 @@ public class GetInput {
 
             total = num1 + num2 + num3;
 
-            // print numbers and total
-
+            // print numbers and total sum
             System.out.println("Sum of " + num1 + ", " + num2 + ", " + num3 + " is " + total);
 
         }
