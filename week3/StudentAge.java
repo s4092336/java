@@ -75,4 +75,6 @@ public class GetInput {
  * 
  * Display running total after each addition
  * 
- * Display fin
+ * Display final total
+ * 
+ */
