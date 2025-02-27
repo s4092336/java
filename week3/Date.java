@@ -5,7 +5,7 @@ public class Date {
         // declare 3 memory boxes (variables)
         int day, month, year;
 
-        // get input
+        // get input from user
         System.out.print("Enter day: ");
         day = Integer.parseInt(System.console().readLine());
 
